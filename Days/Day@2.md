@@ -1,6 +1,6 @@
 # Day#2
 
-## What is Virtualization
+## What is Virtualization?
 
 Virtualization refers to the creation of a virtual version of a device or resource, such as a server, operating system, storage device, or network resources. 
 
