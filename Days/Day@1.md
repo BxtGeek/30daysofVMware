@@ -1,6 +1,6 @@
 # Day#1
 
-## Introduction
+## Introduction?
 
 Hello Reader, Welcome to 30DaysofVMware. This is a small initiative by me to educate people about VMware and Virtualization.
 
