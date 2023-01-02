@@ -1,4 +1,5 @@
 ## 30DaysofVMware
+![Youtube Thumbnail](https://user-images.githubusercontent.com/25264755/210189408-d98ff5c7-345a-4438-a87c-646b6df08072.jpg)
 Welcome to the 30DaysofVMware challenge! This is a unique opportunity to learn about VMware, a leading provider of virtualization and cloud computing technology, and to develop your skills and knowledge in this important area.
 
 Virtualization is a technology that allows multiple virtual resources to be run on a single physical resource, increasing efficiency and flexibility. It enables users to create and manage virtual machines, or software-based emulations of physical computers, which can run their own operating systems and applications. Virtualization is widely used by businesses and individuals to create a flexible and scalable IT infrastructure, and to access and use applications and services from any device with an internet connection.
