@@ -12,4 +12,6 @@ With the help of this repository will try to learn about VMware in the next 30 d
 
 This is a fun learning model. You need to learn something new every day from this repo and share your knowledge with others. Now you will ask how I can share my knowledge. That is so simple. You need to share your learning over Twitter and don't forget to add #30DaysofVMware. This will trigger the #30DaysofVMware bot. 
 
-Now let's start with day#2
+## Important Resources
+
+Now let's start with [Day#2](Day%402.md)
