@@ -40,4 +40,6 @@ To create your first virtual machine (VM) on VMware Player using Ubuntu, follow 
 
 Overall, creating a VM on VMware Player using Ubuntu is a straightforward process that involves downloading the Ubuntu ISO file, configuring the VM settings, and following the on-screen instructions to complete the installation.
 
-Now let's start with day#8
+## Important Resources
+
+Now let's start with [Day#8](Day%408.md)
