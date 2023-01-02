@@ -8,4 +8,6 @@ In our lab design, we will create two ESXi hosts and inside these host, we will 
 
 Don't worry if you are unfamiliar with some of these terms – we will be covering them in more detail throughout the challenge. The goal of our lab design is to provide you with a hands-on experience using ESXi and vSphere, and to help you understand how these tools can be used to create a flexible and scalable IT infrastructure.
 
-Now let's start with day#7
+## Important Resources
+
+Now let's start with [Day#7](Day%407.md)
