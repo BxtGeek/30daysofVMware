@@ -35,3 +35,7 @@ Virtualization works by creating a layer of software called a hypervisor, which 
 When a user interacts with a virtual environment, they are actually interacting with the hypervisor, which translates their actions into instructions for the physical hardware. This allows the user to interact with the virtual environment as if it were a separate physical device, even though it is running on the same hardware as other virtual environments.
 
 Virtualization can be used to create virtual versions of servers, desktops, storage devices, networks, and other resources. It allows organizations to make more efficient use of their hardware resources, reduce costs, and improve flexibility and scalability.
+
+## Important Resources
+
+Now let's start with [Day#3](Day%403.md)
