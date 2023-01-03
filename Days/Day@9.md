@@ -37,5 +37,7 @@ To install Linux on a virtual machine (VM) on an ESXi server, follow these steps
 Note that the exact steps and options for installing Linux on a VM will vary depending on the version of the ESXi server you are using and the Linux distribution you are installing. It is recommended to refer to the documentation for the Linux distribution and the ESXi server for detailed instructions on the installation process.
 
 ## Important Resources
++ [How to Create a VM in ESXi 8 and Install Red Hat Enterprise Linux (RHEL)](https://www.youtube.com/watch?v=pH1bd5TBOtI)
++ [How to Install Ubuntu on VMware vSphere ESXi](https://www.youtube.com/watch?v=v10UP5OAQ0g)
 
 Now let's start with [Day#10](Day%409.md)
