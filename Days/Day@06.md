@@ -10,4 +10,4 @@ Don't worry if you are unfamiliar with some of these terms – we will be coveri
 
 ## Important Resources
 
-Now let's start with [Day#7](Day%407.md)
+Now let's start with [Day#7](https://github.com/BxtGeek/30daysofVMware/blob/main/Days/Day%4007.md)
