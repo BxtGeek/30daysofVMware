@@ -41,4 +41,4 @@ Overall, virtualization is a powerful technology
 + [Benefits of Virtualization](https://www.youtube.com/watch?v=yZBYVrWvJSU)
 + [Advantages of Virtualization](https://www.youtube.com/watch?v=JmkbrHQWXOI)
 
-Now let's start with [Day#4](Day%404.md)
+Now let's start with [Day#4](https://github.com/BxtGeek/30daysofVMware/blob/main/Days/Day%4004.md)
