@@ -41,5 +41,5 @@ Virtualization can be used to create virtual versions of servers, desktops, stor
 + [Virtualization Explained](https://www.youtube.com/watch?v=FZR0rG3HKIk&t=22s)
 + [How Virtualization Work?](https://www.youtube.com/watch?v=Je_mKQRJFnY)
 
-Now let's start with [Day#3](Day%403.md)
+Now let's start with [Day#3](https://github.com/BxtGeek/30daysofVMware/blob/main/Days/Day%4003.md)
 
