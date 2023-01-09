@@ -40,4 +40,4 @@ Note that the exact steps and options for installing Linux on a VM will vary dep
 + [How to Create a VM in ESXi 8 and Install Red Hat Enterprise Linux (RHEL)](https://www.youtube.com/watch?v=pH1bd5TBOtI)
 + [How to Install Ubuntu on VMware vSphere ESXi](https://www.youtube.com/watch?v=v10UP5OAQ0g)
 
-Now let's start with [Day#10](Day%409.md)
+Now let's start with [Day#10](https://github.com/BxtGeek/30daysofVMware/blob/main/Days/Day%4010.md)
