@@ -36,4 +36,4 @@ Note that the exact steps and options for configuring the ESXi server will vary 
 
 ## Important Resources
 
-Now let's start with [Day#9](Day%409.md)
+Now let's start with [Day#9](https://github.com/BxtGeek/30daysofVMware/blob/main/Days/Day%4009.md)
