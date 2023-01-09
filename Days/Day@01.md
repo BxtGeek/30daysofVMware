@@ -14,4 +14,4 @@ This is a fun learning model. You need to learn something new every day from thi
 
 ## Important Resources
 
-Now let's start with [Day#2](Day%402.md)
+Now let's start with [Day#2](https://github.com/BxtGeek/30daysofVMware/blob/main/Days/Day%4002.md)
