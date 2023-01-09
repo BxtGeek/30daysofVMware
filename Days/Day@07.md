@@ -42,4 +42,4 @@ Overall, creating a VM on VMware Player using Ubuntu is a straightforward proces
 
 ## Important Resources
 
-Now let's start with [Day#8](Day%408.md)
+Now let's start with [Day#8](https://github.com/BxtGeek/30daysofVMware/blob/main/Days/Day%4008.md)
