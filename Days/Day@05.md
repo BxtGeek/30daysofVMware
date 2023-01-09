@@ -30,4 +30,4 @@ Overall, VMware is an important provider of virtualization and cloud computing t
 
 ## Important Resources
 
-Now let's start with [Day#6](Day%406.md)
+Now let's start with [Day#6](https://github.com/BxtGeek/30daysofVMware/blob/main/Days/Day%4006.md)
