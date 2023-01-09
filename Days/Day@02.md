@@ -37,7 +37,8 @@ When a user interacts with a virtual environment, they are actually interacting 
 Virtualization can be used to create virtual versions of servers, desktops, storage devices, networks, and other resources. It allows organizations to make more efficient use of their hardware resources, reduce costs, and improve flexibility and scalability.
 
 ## Important Resources
-[Virtualization | Virtualization Technology | What Is Virtualization | Simplilearn](https://www.youtube.com/watch?v=Wb68Exu6jtU)
-[Virtualization Explained](https://www.youtube.com/watch?v=FZR0rG3HKIk&t=22s)
++ [Virtualization | Virtualization Technology | What Is Virtualization | Simplilearn](https://www.youtube.com/watch?v=Wb68Exu6jtU)
++ [Virtualization Explained](https://www.youtube.com/watch?v=FZR0rG3HKIk&t=22s)
+
 Now let's start with [Day#3](Day%403.md)
 
