@@ -38,4 +38,7 @@ Overall, virtualization is a powerful technology
 
 ## Important Resources
 
++[Benefits of Virtualization](https://www.youtube.com/watch?v=yZBYVrWvJSU)
++[Advantages of Virtualization](https://www.youtube.com/watch?v=JmkbrHQWXOI)
+
 Now let's start with [Day#4](Day%404.md)
