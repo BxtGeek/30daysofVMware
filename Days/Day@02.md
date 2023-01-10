@@ -8,7 +8,7 @@ It allows multiple operating systems to run on the same physical server or devic
 
 There are several different types of virtualization, including server virtualization, desktop virtualization, and application virtualization.
 
-## Types of Virtualiztion?
+## Types of Virtualization?
 
 There are several different types of virtualization:
 + Server virtualization: This involves creating virtual versions of servers, allowing multiple operating systems and applications to run on the same physical server.
