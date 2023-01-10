@@ -28,5 +28,7 @@ To update the hostname of an ESXi host, you will need to follow these steps:
 Note that changing the hostname of an ESXi host will require a reboot of the host in order for the change to take effect. Be sure to save any work and shut down any running VMs before rebooting the host.
 
 ## Important Resources
++ [VMware vSphere 5.1 - 2.3 Managing ESXi from VM inside it](https://www.youtube.com/watch?v=jji9O5PhdR8)
++ [How To Install ESXi in a Virtual Machine](https://www.youtube.com/watch?v=9ebUzcpGEEE&list=PLlN5eLF5d8CZNc2v3fnsd4KiDXRVTSKyl&index=2)
 
 Now let's start with [Day#11](Day%4011.md)
