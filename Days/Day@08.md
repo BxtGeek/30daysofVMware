@@ -35,5 +35,9 @@ Once you have installed the ESXi server, you will need to configure it to suit y
 Note that the exact steps and options for configuring the ESXi server will vary depending on your specific needs and the version of the ESXi server you are using. It is recommended to refer to the VMware documentation for detailed instructions on configuring the ESXi server.
 
 ## Important Resources
++ [How to Install VMware vSphere Hypervisor 8.0](https://www.youtube.com/watch?v=FlOJh8hesqA)
++ [How to Install VMware vSphere Hypervisor 7.0](https://www.youtube.com/watch?v=YhXsX4kJS3M)
++ [Before I do anything with VMware ESXi I do this first](https://www.youtube.com/watch?v=-1BMiYZfz38)
++ [vSphere 7 - How To Install and Configure VMware ESXi 7](https://www.youtube.com/watch?v=O0Xt_YrLrBA)
 
 Now let's start with [Day#9](https://github.com/BxtGeek/30daysofVMware/blob/main/Days/Day%4009.md)
