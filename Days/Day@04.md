@@ -47,5 +47,10 @@ Virtualization and containers are both technologies that allow users to run mult
 Overall, virtualization and containers are both useful technologies that allow users to run multiple resources on a single physical resource, increasing efficiency and flexibility. However, they differ in terms of how they achieve this, with virtualization involving the creation of a virtual version of a complete resource, and containers involving the packaging of an application and its dependencies into a single, portable unit. Understanding the differences between the two can help you choose the right solution for your needs.
 
 ## Important Resources
++ [Virtualization Technology Companies](https://www.youtube.com/watch?v=_j2WIv-IAhE)
++ [Difference Between Virtualization and Cloud](https://www.youtube.com/watch?v=EIW-8plUz-I)
++ [Cloud Computing In 6 Minutes](https://www.youtube.com/watch?v=M988_fsOSWo)
++ [Containers vs VMs: What's the difference?](https://www.youtube.com/watch?v=cjXI-yxqGTI)
++ [Containerization Explained](https://www.youtube.com/watch?v=0qotVMX-J5s)
 
 Now let's start with [Day#5](https://github.com/BxtGeek/30daysofVMware/blob/main/Days/Day%4005.md)
