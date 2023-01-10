@@ -29,5 +29,8 @@ VMware is a leading provider of virtualization and cloud computing technology, a
 Overall, VMware is an important provider of virtualization and cloud computing technology, offering a range of products that allow users to create and manage virtual machines, and to access and use applications and services from any device with an internet connection. Its products are widely used and trusted by businesses and individuals around the world, making it a key player in the IT industry.
 
 ## Important Resources
++ [What is VMware?](https://www.youtube.com/watch?v=zPNCp9AV-vA)
++ [VMware Tutorial For Beginners](https://www.youtube.com/watch?v=7m3f-P-WWbg)
++ [VMware ESXi Setup and Install](https://www.youtube.com/watch?v=apC1bOLbzbY)
 
 Now let's start with [Day#6](https://github.com/BxtGeek/30daysofVMware/blob/main/Days/Day%4006.md)
