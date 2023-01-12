@@ -32,5 +32,9 @@ To create a VM snapshot in ESXi, you can use the vSphere Client or the vSphere W
 Note: Depending on the size of the VM and the amount of data that needs to be saved, creating a snapshot may take some time. During this time, the VM may be unavailable or may run slower than usual.
 
 ## Important Resources
++ [VMWare Snapshots Explained](https://www.youtube.com/watch?v=DQutP_-2j3g)
++ [File Snapshots](https://www.youtube.com/watch?v=gZlGaD-DtKo)
++ [Snapshots vs Backups vs Replications](https://www.youtube.com/watch?v=BcA13YbUv-4)
+
 
 Now let's start with [Day#13](Day%4013.md)
