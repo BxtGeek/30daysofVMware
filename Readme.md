@@ -14,7 +14,11 @@ Whether you are new to VMware or an experienced user, the 30DaysofVMware challen
 
 # Progress
 
-## **Learn Git and GitHub**
-- 📚 [**Day No. 1:** Git Init, Commit, Stash, etc](Days/day1.md)
-- 📚 [**Day No. 2:** Git Branch & Checkout](Days/day2.md)
-- 📚 [**Day No. 3:** GitHub Origin and Upstream repositories](Days/day3.md)
+## **Day No. 1**
+- 📚 [Introduction](Days/Day@01.md)
+
+## **Day No. 2**
+- 📚 [What is Virtualization?](Days/Day@02.md)
+- 📚 [Types of Virtualization?](Days/Day@02.md)
+- 📚 [Why You need Virtualization?](Days/Day@02.md)
+- 📚 [How Virtualization Works?](Days/Day@02.md)
