@@ -22,3 +22,12 @@ Whether you are new to VMware or an experienced user, the 30DaysofVMware challen
 - 🌐 [Types of Virtualization?](Days/Day@02.md)
 - 🌐 [Why You need Virtualization?](Days/Day@02.md)
 - 🌐 [How Virtualization Works?](Days/Day@02.md)
+
+## **Day No. 3**
+- 🌐 [Basic Virtualization Terms](Days/Day@03.md)
+- 🌐 [Benefits of Virtualization](Days/Day@03.md)
+
+## **Day No. 4**
+- 🌐 [Virtualization Technology Companies](Days/Day@04.md)
+- 🌐 [Difference Between Virtualization and Cloud](Days/Day@04.md)
+- 🌐 [Difference Between Virtualization and Containers](Days/Day@04.md)
