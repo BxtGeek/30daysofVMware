@@ -29,4 +29,5 @@ Note that you may need to restart the VM after installing VMware Tools in order 
 + [Setup an Active Directory domain controller in VMware Esxi 6.5](https://www.youtube.com/watch?v=jeKrAx61Oss)
 + [How to Install VMware Tools in ESXi Guest](https://www.youtube.com/watch?v=njK5Em1H5Po)
 + [How to Install VMware Tools in PopOS 22.04 Virtual Machine on VMware Workstation 17](https://www.youtube.com/watch?v=-lkWS0LpeNE)
+
 Now let's start with [Day#12](Day%4012.md)
