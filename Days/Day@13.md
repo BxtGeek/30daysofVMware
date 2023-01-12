@@ -30,5 +30,9 @@ vCenter Server is an essential component of the vSphere environment and is used 
 Overall, vCenter Server is a powerful and essential tool for managing and maintaining a vSphere environment.
 
 ## Important Resources
++ [What is The Difference between VMware vSphere, ESXi and vCenter 6.7 step by step](https://www.youtube.com/watch?v=WBzBgwo_Auo)
++ [VMware vCenter vs VMware ESXi: What's the Difference?](https://www.youtube.com/watch?v=xArL-GzFVOQ)
++ [VMware OVERVIEW!! | What is vSphere | What is ESXi | What is vCenter???](https://www.youtube.com/watch?v=B_H3TJlbEiw)
++ [What is VMware vSphere ESXi and vCenter?](https://www.youtube.com/watch?v=-Hltydu9PXk)
 
 Now let's start with [Day#14](Day%4014.md)
