@@ -15,10 +15,10 @@ Whether you are new to VMware or an experienced user, the 30DaysofVMware challen
 # Progress
 
 ## **Day No. 1**
-- 📚 [Introduction](Days/Day@01.md)
+- 🌐 [Introduction](Days/Day@01.md)
 
 ## **Day No. 2**
-- 📚 [What is Virtualization?](Days/Day@02.md)
-- 📚 [Types of Virtualization?](Days/Day@02.md)
-- 📚 [Why You need Virtualization?](Days/Day@02.md)
-- 📚 [How Virtualization Works?](Days/Day@02.md)
+- 🌐 [What is Virtualization?](Days/Day@02.md)
+- 🌐 [Types of Virtualization?](Days/Day@02.md)
+- 🌐 [Why You need Virtualization?](Days/Day@02.md)
+- 🌐 [How Virtualization Works?](Days/Day@02.md)
