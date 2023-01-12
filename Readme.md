@@ -31,3 +31,14 @@ Whether you are new to VMware or an experienced user, the 30DaysofVMware challen
 - 🌐 [Virtualization Technology Companies](Days/Day@04.md)
 - 🌐 [Difference Between Virtualization and Cloud](Days/Day@04.md)
 - 🌐 [Difference Between Virtualization and Containers](Days/Day@04.md)
+
+## **Day No. 5**
+- 🌐 [What is VMWare?](Days/Day@05.md)
+- 🌐 [Importance of VMWare](Days/Day@05.md)
+
+## **Day No. 6**
+- 🌐 [Lab Design](Days/Day@06.md)
+
+## **Day No. 7**
+- 🌐 [What is VMWare?](Days/Day@05.md)
+- 🌐 [Importance of VMWare](Days/Day@05.md)
