@@ -10,4 +10,4 @@ VMware is a leading provider of virtualization and cloud computing technology, o
 
 Throughout the 30DaysofVMware challenge, you will have the opportunity to explore the various products and features offered by VMware, and to learn how they can be used to create a flexible and scalable IT infrastructure. You will also have the chance to participate in hands-on exercises and activities that will help you to apply what you have learned in a practical setting.
 
-Whether you are new to VMware or an experienced user, the 30DaysofVMware challenge is a great way to deepen your understanding of this powerful technology and to develop the skills and knowledge you need to succeed in your career. So let's get started,
+Whether you are new to VMware or an experienced user, the 30DaysofVMware challenge is a great way to deepen your understanding of this powerful technology and to develop the skills and knowledge you need to succeed in your career. So let's get started [Day#1](https://github.com/BxtGeek/30daysofVMware/blob/main/Days/Day@01.md)
