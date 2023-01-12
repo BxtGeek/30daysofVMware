@@ -25,5 +25,8 @@ To install VMware Tools on a VM, you will need to follow these steps:
 Note that you may need to restart the VM after installing VMware Tools in order for the changes to take effect. Additionally, some versions of VMware Tools may require you to update the VM's operating system and/or kernel in order to be compatible.
 
 ## Important Resources
-
++ [Creating a Windows-11 Virtual Machine on ESXi](https://www.youtube.com/watch?v=jpVZtPfzu5c)
++ [Setup an Active Directory domain controller in VMware Esxi 6.5](https://www.youtube.com/watch?v=jeKrAx61Oss)
++ [How to Install VMware Tools in ESXi Guest](https://www.youtube.com/watch?v=njK5Em1H5Po)
++ [How to Install VMware Tools in PopOS 22.04 Virtual Machine on VMware Workstation 17](https://www.youtube.com/watch?v=-lkWS0LpeNE)
 Now let's start with [Day#12](Day%4012.md)
