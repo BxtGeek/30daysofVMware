@@ -40,5 +40,17 @@ Whether you are new to VMware or an experienced user, the 30DaysofVMware challen
 - 🌐 [Lab Design](Days/Day@06.md)
 
 ## **Day No. 7**
-- 🌐 [What is VMWare?](Days/Day@05.md)
-- 🌐 [Importance of VMWare](Days/Day@05.md)
+- 🌐 [Download and Install VMWare Player](Days/Day@07.md)
+- 🌐 [First VM on VMWare Player (Linux)](Days/Day@07.md)
+
+## **Day No. 8**
+- 🌐 [Download and Install ESXi Server (Hypervisor)](Days/Day@08.md)
+- 🌐 [Configure ESXi Server](Days/Day@08.md)
+
+## **Day No. 9**
+- 🌐 [First VM on ESXi](Days/Day@09.md)
+- 🌐 [Install Linux OS](Days/Day@09.md)
+
+## **Day No. 10**
+- 🌐 [VM Management](Days/Day@10.md)
+- 🌐 [Update ESXi hostname](Days/Day@10.md)
