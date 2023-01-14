@@ -58,3 +58,25 @@ Whether you are new to VMware or an experienced user, the 30DaysofVMware challen
 ## **Day No. 11**
 - 🌐 [Install Windows on a VM](Days/Day@11.md)
 - 🌐 [Install VMWare Tools](Days/Day@11.md)
+
+## **Day No. 12**
+- 🌐 [Review VMs and Modify Resources](Days/Day@12.md)
+- 🌐 [VM Snapshots](Days/Day@12.md)
+
+## **Day No. 13**
+- 🌐 [Install 2nd ESXi Server](Days/Day@13.md)
+- 🌐 [What is vCenter?](Days/Day@13.md)
+
+## **Day No. 14**
+- 🌐 [Downloading vCenter and Installation Options (Win32 UI or OVA)](Days/Day@14.md)
+
+## **Day No. 15**
+- 🌐 [Install vCenter](Days/Day@15.md)
+
+## **Day No. 16**
+- 🌐 [Accessing vCenter (Flash/HTML, SSH, Console, Admin Portal)](Days/Day@16.md)
+
+## **Day No. 17**
+- 🌐 [vCenter Management Interface](Days/Day@17.md)
+- 🌐 [Create a Datacenter and Add ESXi Servers](Days/Day@17.md)
+- 🌐 [Managing hosts on vCenter](Days/Day@17.md)
