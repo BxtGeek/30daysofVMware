@@ -54,3 +54,7 @@ Whether you are new to VMware or an experienced user, the 30DaysofVMware challen
 ## **Day No. 10**
 - 🌐 [VM Management](Days/Day@10.md)
 - 🌐 [Update ESXi hostname](Days/Day@10.md)
+
+## **Day No. 11**
+- 🌐 [Install Windows on a VM](Days/Day@11.md)
+- 🌐 [Install VMWare Tools](Days/Day@11.md)
