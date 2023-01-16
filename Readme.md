@@ -80,3 +80,11 @@ Whether you are new to VMware or an experienced user, the 30DaysofVMware challen
 - 🌐 [vCenter Management Interface](Days/Day@17.md)
 - 🌐 [Create a Datacenter and Add ESXi Servers](Days/Day@17.md)
 - 🌐 [Managing hosts on vCenter](Days/Day@17.md)
+
+## **Day No. 18**
+- 🌐 [vCenter Homepage](Days/Day@18.md)
+- 🌐 [Getting Started and Summary with vCenters](Days/Day@18.md)
+
+## **Day No. 19**
+- 🌐 [Monitors](Days/Day@19.md)
+- 🌐 [Configure, Permissions, and Datacenters (Menu)](Days/Day@19.md)
