@@ -88,3 +88,10 @@ Whether you are new to VMware or an experienced user, the 30DaysofVMware challen
 ## **Day No. 19**
 - 🌐 [Monitors](Days/Day@19.md)
 - 🌐 [Configure, Permissions, and Datacenters (Menu)](Days/Day@19.md)
+
+## **Day No. 20**
+- 🌐 [Hosts & Clusters and VMs](Days/Day@20.md)
+
+## **Day No. 21**
+- 🌐 [Migrating VM without VMWare cluster (Cold)](Days/Day@21.md)
+- 🌐 [vMotion](Days/Day@21.md)
