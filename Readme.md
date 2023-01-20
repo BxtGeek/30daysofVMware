@@ -95,3 +95,14 @@ Whether you are new to VMware or an experienced user, the 30DaysofVMware challen
 ## **Day No. 21**
 - 🌐 [Migrating VM without VMWare cluster (Cold)](Days/Day@21.md)
 - 🌐 [vMotion](Days/Day@21.md)
+
+## **Day No. 22**
+- 🌐 [What is VMWare Cluster?](Days/Day@22.md)
+- 🌐 [How to setup VMWare Cluster](Days/Day@22.md)
+- 🌐 [What is VMware High Availability?](Days/Day@22.md)
+- 🌐 [How to setup High Availability and their requirement?](Days/Day@22.md)
+
+## **Day No. 23**
+- 🌐 [Distributed Resource Scheduler (DRS)](Days/Day@23.md)
+- 🌐 [The sequence of Starting and Shutting VMWare vSphere Environment](Days/Day@23.md)
+- 🌐 [Datastore clusters](Days/Day@23.md)
