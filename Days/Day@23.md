@@ -43,5 +43,7 @@ A Datastore Cluster in VMware vSphere is a collection of datastores that are man
 Datastore clusters are used to improve the availability, performance, and manageability of the storage resources in a vSphere environment. They are created and managed through the vCenter Server, which provides a centralized management point. This makes it easy to manage the storage resources and monitor the performance of the virtual machines running on the datastores.
 
 ## Important Resources
++ [VMware DRS (Distributed Resource Scheduler)](https://www.youtube.com/watch?v=PUqvY-Fhhvc)
++ [How to Enable and configure VMware vSphere DRS](https://www.youtube.com/watch?v=urwNb3MvCp4)
 
 Now let's start with [Day#24](Day%4024.md)
