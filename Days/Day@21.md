@@ -38,5 +38,7 @@ It's important to note that vMotion requires compatible hardware and software, e
 By using vMotion, administrators can improve the availability and manageability of their virtualized environments by allowing for the live migration of VMs between hosts without interruption of service. This can be useful for planned maintenance, load balancing and disaster recovery scenarios.
 
 ## Important Resources
++ [Introduction to the vMotion process](https://www.youtube.com/watch?v=0Q_MPVeuWgc)
++ [Migrate VMs from Vmware ESXi 5.5 to Vmware ESXi 6.7](https://www.youtube.com/watch?v=xQC0j5I7cX4)
 
 Now let's start with [Day#22](Day%4022.md)
