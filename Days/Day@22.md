@@ -76,5 +76,8 @@ Here are the general steps to set up High Availability (HA) in VMware vSphere an
 It's important to note that these are general steps, and the actual setup process can vary depending on the specific requirements of your environment.
 
 ## Important Resources
++ [Introduction to vSphere Clustering Service (vCLS)](https://www.youtube.com/watch?v=qoe1NHlNViI)
++ [How to Create VMWare Cluster](https://www.youtube.com/watch?v=P_6Yp_fSp-A)
++ [Creating Cluster and adding ESXi to vCenter](https://www.youtube.com/watch?v=bOdesNV_34Q)
 
 Now let's start with [Day#23](Day%4023.md)
