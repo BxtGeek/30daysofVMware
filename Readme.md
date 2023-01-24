@@ -114,3 +114,7 @@ Whether you are new to VMware or an experienced user, the 30DaysofVMware challen
 - 🌐 [How to create VM Templates](Days/Day@24.md)
 - 🌐 [Difference between VM Clone and VM Templates](Days/Day@24.md)
 
+## **Day No. 25**
+- 🌐 [VM Export and Import (OVF)](Days/Day@25.md)
+- 🌐 [How to Export VM(OVF)](Days/Day@25.md)
+- 🌐 [How to Import VM(OVF)](Days/Day@25.md)
