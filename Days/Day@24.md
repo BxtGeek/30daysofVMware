@@ -38,6 +38,9 @@ The main difference between a VM Clone and a VM Template is the purpose and the 
 A VM Clone is a copy of an existing virtual machine (VM) in VMware vSphere. The clone is an independent and fully functional VM that can be used for a variety of purposes, such as creating a test environment, deploying multiple VMs with similar configurations, or creating backups. The clone can be customized as needed and powered on to create a new, independent VM.
 
 On the other hand, VM Templates are pre-configured virtual machines that can be used as a starting point for creating new virtual machines. A VM template contains a fully installed and configured operating system and any additional software that is needed for the virtual machine to function. When a new virtual machine is created from a template, the virtual machine is an exact copy of the template, including the operating system, applications, and configurations. This allows users to quickly deploy multiple virtual machines with the same configuration, without the need to manually install and configure the operating system and software on each virtual machine.
-![Uploading screely-1674559365078.png…]()
+
+![screely-1674559365078](https://user-images.githubusercontent.com/25264755/214279405-a0e53988-9250-41da-88ff-d0b039b552ce.png)
+
+
 In summary, a VM Clone is a standalone virtual machine that is an exact copy of an existing virtual machine with the ability to be customized and powered on independently. A VM Template is a preconfigured virtual machine that serves as a blueprint for creating new virtual machines, it does not have the ability to be powered on and is used for fast deployment of similar virtual machines.
 
