@@ -106,3 +106,11 @@ Whether you are new to VMware or an experienced user, the 30DaysofVMware challen
 - 🌐 [Distributed Resource Scheduler (DRS)](Days/Day@23.md)
 - 🌐 [The sequence of Starting and Shutting VMWare vSphere Environment](Days/Day@23.md)
 - 🌐 [Datastore clusters](Days/Day@23.md)
+
+## **Day No. 24**
+- 🌐 [VM Cloning](Days/Day@24.md)
+- 🌐 [How to clone VM in vCenter](Days/Day@24.md)
+- 🌐 [VM Templates](Days/Day@24.md)
+- 🌐 [How to create VM Templates](Days/Day@24.md)
+- 🌐 [Difference between VM Clone and VM Templates](Days/Day@24.md)
+
