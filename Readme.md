@@ -118,3 +118,8 @@ Whether you are new to VMware or an experienced user, the 30DaysofVMware challen
 - 🌐 [VM Export and Import (OVF)](Days/Day@25.md)
 - 🌐 [How to Export VM(OVF)](Days/Day@25.md)
 - 🌐 [How to Import VM(OVF)](Days/Day@25.md)
+
+## **Day No. 26**
+- 🌐 [Fault Tolerance](Days/Day@26.md)
+- 🌐 [How to implement vSphere High Availability (HA)](Days/Day@26.md)
+- 🌐 [How to implement vSphere Distributed Resource Scheduler (DRS)](Days/Day@26.md)
