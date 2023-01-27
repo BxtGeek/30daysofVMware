@@ -39,7 +39,6 @@ It's important to note that DRS is a feature that provides load balancing across
 ## Important Resources
 + [How to Setup vCenter Server High Availability (HA)](https://www.youtube.com/watch?v=t1aYx8fBcQo)
 + [Understanding of vSphere High Availability(HA)](https://www.youtube.com/watch?v=daAkEw7XHO8)
-+ [VMware High Availability Explained](https://www.youtube.com/watch?v=pQmKd0jGIiI)
 + [Understanding of vSphere Distributed Resource Scheduler(DRS)](https://www.youtube.com/watch?v=fn_GnnQtDEc)
 + [VMware DRS (Distributed Resource Scheduler)](https://www.youtube.com/watch?v=PUqvY-Fhhvc)
 
