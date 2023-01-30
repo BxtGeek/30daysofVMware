@@ -123,3 +123,11 @@ Whether you are new to VMware or an experienced user, the 30DaysofVMware challen
 - 🌐 [Fault Tolerance](Days/Day@26.md)
 - 🌐 [How to implement vSphere High Availability (HA)](Days/Day@26.md)
 - 🌐 [How to implement vSphere Distributed Resource Scheduler (DRS)](Days/Day@26.md)
+
+## **Day No. 27**
+- 🌐 [ESXCLi and ESXi Shell Commands for VMware](Days/Day@27.md)
+- 🌐 [VMWare vCenter Converter](Days/Day@27.md)
+
+## **Day No. 28**
+- 🌐 [What is VMWare vRealize](Days/Day@28.md)
+- 🌐 [How we can use VMWare vRealize in vSphere](Days/Day@28.md)
