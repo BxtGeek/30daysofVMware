@@ -25,6 +25,9 @@ ESXCLI and ESXi Shell are two different command-line interfaces (CLI) for managi
 Overall, both esxcli and ESXi Shell commands can be useful for managing and troubleshooting your ESXi environment. However, esxcli is more powerful and versatile, providing a wide range of commands for advanced management tasks, while ESXi Shell is more suited for basic management tasks.
  
 ## VMWare vCenter Converter
+VMware vCenter Converter is a tool for converting physical machines, virtual machines, and third-party image formats to VMware virtual machines. It enables the migration of existing workloads to vSphere environments, including support for converting from Microsoft Windows and Linux-based physical machines, and from third-party virtualization platforms such as Microsoft Virtual Server and Hyper-V.
+
+vCenter Converter performs the conversion process by creating a VMware virtual machine image that is compatible with the target vSphere environment, preserving the original operating system, applications, and data of the source machine. The tool provides a wizard-driven user interface to simplify the conversion process and minimize downtime during the migration.
 
 ## Important Resources
 
