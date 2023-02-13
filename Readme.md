@@ -131,3 +131,10 @@ Whether you are new to VMware or an experienced user, the 30DaysofVMware challen
 ## **Day No. 28**
 - 🌐 [What is VMWare vRealize](Days/Day@28.md)
 - 🌐 [How we can use VMWare vRealize in vSphere](Days/Day@28.md)
+
+## **Day No. 29**
+- 🌐 [Introduction to VMware Horizon](Days/Day@29.md)
+
+## **Day No. 30**
+- 🌐 [VMWare Community and Resources](Days/Day@30.md)
+- 🌐 [What Next?](Days/Day@30.md)
